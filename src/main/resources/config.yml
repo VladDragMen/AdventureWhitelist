@@ -1,0 +1,17 @@
+messages:
+  join-whitelisted: "§aДобро пожаловать на сервер!"
+  join-not-whitelisted: "§cВы не в вайтлисте! Ваши действия ограничены."
+  reminder: "§aПодайте заявку в Telegram: §6https://t.me/furryblock"
+  command-usage: "§eИспользование: §a/awl on|off|status §7| §a/awl add <ник> §7| §c/awl remove <ник> §7| §e/awl list"
+  added-to-whitelist: "§aИгрок {player} добавлен в вайтлист!"
+  removed-from-whitelist: "§cИгрок {player} удалён из вайтлиста!"
+  no-permission: "§cУ вас нет прав!"
+  add-admin-awl: "§aАдминистрация приняла вашу заявку! Добро пожаловать!"
+  whitelist-on: "§aВайтлист включен!"
+  whitelist-off: "§cВайтлист отключен!"
+  chat-blocked: "§cВы не можете писать в чат без вайтлиста!"
+  combat-blocked: "§cВы не можете атаковать существ без вайтлиста!"
+  interaction-blocked: "§cВы не можете взаимодействовать с этим блоком без вайтлиста!"
+
+whitelist-enabled: true
+unread-approvals: []

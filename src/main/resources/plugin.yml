@@ -1,0 +1,16 @@
+name: AdventureWhitelist
+version: 1.4
+api-version: "1.21"
+main: me.FFluffyPaw.adventurewhitelist.main
+author: FFluffyPaw
+description: Полная система белого списка с ограничениями
+
+commands:
+  awl:
+    description: Управление вайтлистом
+    usage: /awl <on|off|status|add|remove|list>
+
+permissions:
+  awl.manage:
+    description: Позволяет управлять белым списком
+    default: op
